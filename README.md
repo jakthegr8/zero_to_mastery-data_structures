@@ -1,3 +1,6 @@
+
+<img width="1048" alt="DSA in Ruby" src="https://user-images.githubusercontent.com/164240/124345868-1d4f2d80-dbf9-11eb-8477-07da35b6597f.png">
+
 ## Data Structures and Algorithms in Ruby
 
 The repository contains implementation of Data Structures and Algorithms in [Ruby (3.0.1)](https://www.ruby-lang.org/en/) programming language.
